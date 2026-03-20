@@ -103,7 +103,7 @@ across three pillars:
 
 ---
 
-## 📬 Feedback
+## Feedback
 
 I would really appreciate feedback from mentors on:
 - Scope and prioritization of target files
