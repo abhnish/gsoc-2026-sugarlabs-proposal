@@ -16,7 +16,7 @@
 **Length:** 350 hours
 
 ## Proposal
-👉 [View Full Proposal (PDF)](./proposal.pdf)
+👉 [View Full Proposal (PDF)](proposal.gsoc.pdf)
 
 ---
 
