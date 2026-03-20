@@ -76,7 +76,7 @@ across three pillars:
 | PR | Description | Status |
 |---|---|---|
 | #5567 | Remove debug console statements from jseditor | Merged |
-| #6008 | Fix utils.js test coverage | Merged |
+| #6008 | Fix utils.js test coverage | Close |
 
 ---
 
