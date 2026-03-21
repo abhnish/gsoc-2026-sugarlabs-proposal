@@ -12,7 +12,7 @@
 
 ## Project: Music Blocks Maintenance
 
-**Mentors:** Walter Bender, Sumit Srivastava
+**Mentors:** Walter Bender, Om Santosh Suneri
 **Length:** 350 hours
 
 ## Proposal
