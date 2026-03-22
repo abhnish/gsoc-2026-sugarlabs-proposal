@@ -13,7 +13,7 @@
 ## Project: Music Blocks Maintenance
 
 **Mentors:** Walter Bender, Om Santosh Suneri
-**Length:** 350 hours
+**Length:** 150 hours
 
 ## Proposal
 👉 [View Full Proposal (PDF)](proposalGsoc2026.pdf)
