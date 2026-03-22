@@ -16,7 +16,7 @@
 **Length:** 350 hours
 
 ## Proposal
-👉 [View Full Proposal (PDF)](proposal.gsoc.pdf)
+👉 [View Full Proposal (PDF)](proposalGsoc2026.pdf)
 
 ---
 
